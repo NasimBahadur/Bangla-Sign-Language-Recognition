@@ -1,1 +1,1 @@
-To use our model, we need to download this model and save it in the root folder of our project. After that, we need to open the “REAL TIME PREDICTION FOR THESIS” notebook & input the file name there(without extension).
+To use our model, you need to download this model and save it in the root folder of our project. After that, you need to open the “REAL TIME PREDICTION” notebook & input the file name there (without extension).
