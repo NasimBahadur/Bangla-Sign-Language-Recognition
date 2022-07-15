@@ -8,5 +8,7 @@ Bangla sign recognition system is developed based on a deep learning approach na
   <img src=https://user-images.githubusercontent.com/43060004/179276587-54089806-979b-472c-8003-b1cfc37fba73.jpg width="200" height="150"/>
 </p>
 
-![LSTM chain](https://user-images.githubusercontent.com/43060004/179276593-ccf70c0f-fbe3-4882-b1c5-46097c0960f4.png)
-![model](https://user-images.githubusercontent.com/43060004/179276597-c5467b13-12f5-49ea-979a-f4fcf7bc4c01.png)
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/43060004/179276593-ccf70c0f-fbe3-4882-b1c5-46097c0960f4.png width="200" height="150"/>
+  <img src=https://user-images.githubusercontent.com/43060004/179276597-c5467b13-12f5-49ea-979a-f4fcf7bc4c01.png width="200" height="150"/>
+</p>
