@@ -1,5 +1,5 @@
 # Bangla Sign Language Recognition
-Bangla sign recognition system is developed based on a deep learning approach named LSTM. As a feature extractor, Mediapipe Holistic is also used in this system. This system is able to work on static and dynamic both types of gestures and recognize simple or complex signs.
+Bangla sign recognition system is developed based on a deep learning approach named LSTM. As a feature extractor, Mediapipe Holistic is also used in this system. This system is able to work on static and dynamic both types of gestures and recognize simple and complex signs.
 
 # Mediapipe Holistic
 Mediapipe Holistic extracts feature from a person's face, body, hand, and finger positions. Mediapipe Holistic uses specific points to monitor our facial expressions and hand movements.  Mediapipe Holistic generates landmarks to detect the face, body, and hand. As a result, redundant information is automatically removed from the picture or frame of a video. This system saves space because it only requires a few points to be saved.  t does not introduce displacement due to lighting or distance.
