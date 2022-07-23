@@ -13,6 +13,9 @@ Mediapipe Holistic extracts feature from a person's face, body, hand, and finger
 </p>
 
 # LSTM Architecture
+Recurrent Neural Networks in particular may learn long-term dependencies, such as LSTM. A number of repetitive neural network modules make up RNNs. A single tanh layer, which is a very simple structure, will make up this repeating module in a normal RNN.
+LSTM has backpropagation, unlike conventional convolutional neural networks. A forget gate, a cell, an input gate, and an output gate make up a basic LSTM unit. Three gates regulate the flow of data into and out of the cell, which also has a long-term storage capacity.
+LSTMs do a great job of categorizing, evaluating, and generating predictions based on time series data because key events in a time series may have unexpected latency. In Bangla sign language, a complex sign consists of several patterns and gestures. A connection between recent and prior actions is nearly always present. In order to remember the previous one for a while, the LSTM architecture was used. 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/43060004/179276593-ccf70c0f-fbe3-4882-b1c5-46097c0960f4.png width="520" height="250"/>
   <img src=https://user-images.githubusercontent.com/43060004/179276597-c5467b13-12f5-49ea-979a-f4fcf7bc4c01.png width="520" height="250"/>
