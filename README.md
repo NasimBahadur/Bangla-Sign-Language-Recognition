@@ -21,5 +21,5 @@ Recurrent Neural Networks in particular may learn long-term dependencies. Unlike
 
 # Work Procedure
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/180614275-1cf421ac-d12f-4d64-a608-0bca348bde11.png width="350" height="520"/>
+  <img src=https://user-images.githubusercontent.com/43060004/180614275-1cf421ac-d12f-4d64-a608-0bca348bde11.png width="400" height="500"/>
 </p>
