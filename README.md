@@ -20,4 +20,6 @@ Recurrent Neural Networks in particular may learn long-term dependencies. Unlike
 </p>
 
 # Work Procedure
-<img src=https://user-images.githubusercontent.com/43060004/180614275-1cf421ac-d12f-4d64-a608-0bca348bde11.png width="250" height="520"/>
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/43060004/180614275-1cf421ac-d12f-4d64-a608-0bca348bde11.png width="350" height="520"/>
+</p>
